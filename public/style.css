@@ -1,0 +1,41 @@
+.App{
+    width: 400px;
+    height:600px;
+    margin-top: 10px;
+    background-color: rgb(128, 128, 128);
+    border-radius: 50px;
+    box-shadow: 10px  10px 20px black;
+   margin-left: 400px;
+
+   }
+.name{
+    margin-top: 300px;
+ 
+    letter-spacing: 2px;
+    line-height: 2;
+    
+}
+.address{
+    margin-top: 10px;
+    
+    letter-spacing: 2px;
+    line-height: 2;
+}
+.image{
+
+width:10px;
+height: 20px;
+
+
+
+
+}
+.add{
+    color: rgb(253, 253, 253);
+    background-color: rgb(65, 65, 65);
+    margin-left: 1px;
+    
+}
+.add1{
+    background-color: rgb(155, 155, 155);  
+}
